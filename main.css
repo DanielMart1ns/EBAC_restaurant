@@ -22,6 +22,11 @@ body{
     background-color: #ffeae6;
 }
 
+.carousel-item img{
+    height: 500px;
+    width: 100%;
+}
+
 .section-title{
     font-family: 'Pacifico', cursive;
 }
